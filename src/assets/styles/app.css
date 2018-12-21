@@ -1,0 +1,16 @@
+.app-home {
+  padding: 20px 100px;
+}
+.app-result {
+  padding: 20px 100px;
+}
+p {
+  position: relative;
+  padding-left: 100px;
+}
+label {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
